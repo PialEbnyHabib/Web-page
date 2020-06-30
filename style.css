@@ -1,4 +1,6 @@
-
+a:hover{
+    color: black;
+}
 body{
     margin: 0px;
     background-color: rgb(255, 254, 254);
